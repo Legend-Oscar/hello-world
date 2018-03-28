@@ -1,0 +1,93 @@
+
+	Every body is expected to create a Github profile, a lot of people have ideas on their PC but nobody knows about it. Read about github.com and create a repository. It's open-source and it's created by who created Linux(Linus Torvald). Gitlegend96
+	 We will also create a site and host it using whogohost. It costs #1500. So cheap
+
+
+	 	HTML
+
+	 All you need is a text editor and browser. We will be using sublime text and chrome for this class. 
+	  HTML means hypertext markup Language. It's called hypertext bcos of how docs are linked and marked up with tags. We are dealing with HTML5 in this class. WE had 3.2, 4.5 XHTML and the rest are the various versions of HTML that we have. That's the only lang that the browsers understand. We have web apps like facebook, twitter, whasapp and websites.
+
+	  	A website on its own can't hold ur details but a webapp has a database that can hold ur details and make manipulations on them. When a data is stored in the cloud, it is actually stored on someone's computer, server, workstation or on a remote network.
+
+	  		The default syntax of html5 doc is:
+
+	  				<!DOCTYPE html>
+					<html>
+					<head>
+					<title></title>
+					</head>
+					<body>
+
+					</body>
+					</html>
+		The extension is ".html".
+		  The head tags defines the peoperty of the document.
+			You can add the folowing to the head tags: css links, titles, meta tags(meta tags are useful for SEO - Search Engine Optimazations; they help to make your site visible to the search engines). Every other tags below comes under the body.
+
+				Every site is divided into header, content(body) and footer.
+				  It's not all html elements that need a closing tags, eg are <br>, <hr>, <input>
+				    Some errors can't be controlled. Some are user-caused. We need to take into account diff device screens(responsive design - so the sites can look the same across all devices.)
+				    
+				    C, C++, Java, JavaScript.
+
+Some examples of html tags are:
+<a href=""></a>
+	<b></b>
+	<basefont></basefont>
+	<bdi></bdi>
+	<bdo></bdo>
+	<blockquote></blockquote>
+	<body></body>
+	<button></button>
+	<base href="">
+	<center></center>
+	<canvas></canvas>
+	<caption></caption>
+	<cdata></cdata>
+	<cite></cite>
+	<colgroup></colgroup>
+	<code></code>
+	<content></content>
+	<cdata></cdata>
+	<big></big>
+	<small></small>
+	<em></em>
+	<select></select>
+	<summary></summary>
+	<samp></samp>
+	<s></s>
+	<section></section>
+	<shadow></shadow>
+	<span></span>
+	<strong></strong>
+	<script type="text/javascript"></script>
+
+	Padding is the internal space of the element from where it starts to while margin is the external space of the element.
+
+Always save, so that when you refresh you will see the changes made to your document.
+ Your page must be good first for smaller mobiles befor the big screens.
+
+   We will be using % and pixel as our measurement unit in this class. % is safer than pixel, cm, inches, em.
+    On default, htm has display of block. Though some has inline and inline-block.
+     The home page/landing page is the summary of your site. The logo and home links to your index page. Use the <a href=""> </a> to link documents. By default, every anchor tags has blue color and text decoraation of underline. 
+      The content carries videos, pictures, and other display items.
+
+      The footer should have links
+
+      	In image, we SVG(Scalar Vector Graphics), it doesn't lose their pixels when it is being zoomed. But jpg, jpeg, png and other formats.
+      	Your portfolio should explain you and what you can do
+
+      		CSS:
+
+  This is the beauty of the site. It's the make-up of websites.
+   We have 3 types of css:
+    1. External css(gonna be placed in a diff file)
+    2. Internal css(placed & definedin the head tag)
+    3. Inline css(This is placed in line with tags)
+
+
+
+An id is to be assigned to only 1 element but a class can be assigned to many elements. To call a class use a '.', to call an id use an '#'.
+
+
